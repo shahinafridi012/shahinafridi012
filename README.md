@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahinafridi012" alt="shah" /></a> </p>
 
-- 🔭 I’m currently working on [Redi way](https://www.rediway.com/)
+- 🔭 I’m currently working on [GenieHack](https://www.geniehack.com/)
 
 - 🌱 I’m currently learning **more and more**
 
