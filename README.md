@@ -1,15 +1,15 @@
-<!-- HERO -->
+<!-- ================= HERO ================= -->
 <h1 align="center">
   Hi 👋, I'm <span style="color:#14b8a6;">Shahin</span>
 </h1>
 
 <h3 align="center">
-  🚀 Full-Stack Web Developer | AI-Driven Web Apps
+  Full-Stack Web Developer • AI-Driven Web Apps • SaaS Builder
 </h3>
 
 <p align="center">
   <a href="https://www.geniehack.com" target="_blank">
-    <img src="https://img.shields.io/badge/Building-GenieHack-14b8a6?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Building-GenieHack-14b8a6?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
@@ -22,30 +22,30 @@
 ## 🧠 About Me
 
 - 💻 Full-Stack Web App Developer based in **Bangladesh**
-- 🧩 Specialized in **React, Next.js, Node.js, APIs**
-- 🤖 Currently exploring **AI integration in modern web apps**
-- 🏗️ Building scalable SaaS & startup-ready platforms
-- ✍️ Writing tech articles & case studies
+- ⚙️ Expert in **React, Next.js, Node.js, APIs**
+- 🤖 Exploring **AI integration in modern web products**
+- 🚀 Building **startup-ready SaaS platforms**
+- ✍️ Writing technical blogs & real-world case studies
 
-🔗 **Portfolio:** https://www.shahinafridi.com  
-📬 **Email:** shahinafridi012@gmail.com  
+🌐 **Portfolio:** https://www.shahinafridi.com  
+📧 **Email:** shahinafridi012@gmail.com  
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/yasinmunn" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/shahinafridi-pro/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/shahinf1ow" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://twitter.com/yasinmunn" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/yasinmunn" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/c/yasinmunn" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
 
@@ -78,31 +78,34 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shahinafridi012&theme=darkhub&margin-w=10&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shahinafridi012&theme=darkhub&margin-w=12&no-frame=true" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Guaranteed Working)
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shahinafridi012&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shahinafridi012&theme=tokyonight&hide_border=true" />
+  <img width="48%" 
+       src="https://github-readme-stats.vercel.app/api?username=shahinafridi012&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img width="48%" 
+       src="https://streak-stats.demolab.com/?user=shahinafridi012&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahinafridi012&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="40%" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahinafridi012&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## ⚡ Fun Fact
 
-> I love experimenting with cutting-edge technologies —  
-> **currently deep-diving into AI-powered web experiences 🤖**
+> I enjoy experimenting with cutting-edge technologies —  
+> **currently focused on AI-powered web experiences 🤖**
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=14b8a6&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=14b8a6&height=110&section=footer" />
 </p>
