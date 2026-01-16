@@ -138,7 +138,7 @@ I’m a **Full-Stack Web Developer** based in **Bangladesh**, focused on buildin
 > ⚠️ This needs GitHub Action setup once (I’ll tell you below).
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shahinafridi012/shahinafridi012/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muntasimfahim12&theme=tokyo-night&area=true" width="100%" />
 </p>
 
 ---
