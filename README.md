@@ -135,10 +135,9 @@ I’m a **Full-Stack Web Developer** based in **Bangladesh**, focused on buildin
 
 ## 🐍 Contribution Snake (Modern)
 
-> ⚠️ This needs GitHub Action setup once (I’ll tell you below).
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muntasimfahim12&theme=tokyo-night&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahinafridi012&theme=tokyo-night&area=true" width="100%" />
 </p>
 
 ---
