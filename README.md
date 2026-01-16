@@ -3,13 +3,16 @@
   Hi 👋, I'm <span style="color:#14b8a6;">Shahin</span>
 </h1>
 
-<h3 align="center">
-  Full-Stack Web Developer • AI-Driven Web Apps • SaaS Builder
-</h3>
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1000&color=14B8A6&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Next.js+%7C+React+%7C+Node.js;Building+AI-powered+Web+Apps;SaaS+%7C+Startups+%7C+APIs+%7C+Dashboards;Always+learning%2C+always+shipping" 
+    alt="Typing SVG" 
+  />
+</p>
 
 <p align="center">
   <a href="https://www.geniehack.com" target="_blank">
-    <img src="https://img.shields.io/badge/Building-GenieHack-14b8a6?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Currently%20Building-GenieHack-14b8a6?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
@@ -17,17 +20,24 @@
   <img src="https://komarev.com/ghpvc/?username=shahinafridi012&label=Profile%20Views&color=14b8a6&style=flat" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-22c55e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Freelance-Available-f59e0b?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-SaaS%20%26%20AI-8b5cf6?style=for-the-badge" />
+</p>
+
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-- 💻 Full-Stack Web App Developer based in **Bangladesh**
-- ⚙️ Expert in **React, Next.js, Node.js, APIs**
-- 🤖 Exploring **AI integration in modern web products**
-- 🚀 Building **startup-ready SaaS platforms**
-- ✍️ Writing technical blogs & real-world case studies
+I’m a **Full-Stack Web Developer** based in **Bangladesh**, focused on building **fast, scalable, modern web apps** with **Next.js, React, Node.js, APIs, and AI-driven features**.
+
+- 💼 I build SaaS platforms, dashboards, and automation systems  
+- ⚙️ Strong with clean architecture, performance & UI polish  
+- 🤖 Currently exploring AI features that improve real user experience  
 
 🌐 **Portfolio:** https://www.shahinafridi.com  
+✍️ **Articles:** https://www.shahinafridi.com  
 📧 **Email:** shahinafridi012@gmail.com  
 
 ---
@@ -36,18 +46,22 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shahinafridi-pro/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/shahinf1ow" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/yasinmunn" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/c/yasinmunn" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-Portfolio-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
+
+---
+
+## 🧠 What I’m Good At
+
+- ✅ Building modern Next.js websites & web apps  
+- ✅ Backend APIs (Auth, CRUD, Payments, Integrations)  
+- ✅ Dashboards (Admin, Vendor, Customer portals)  
+- ✅ Automation (Zapier/Webhooks/3rd party APIs)  
+- ✅ AI integration (chat, workflows, data-driven UX)
 
 ---
 
@@ -75,10 +89,30 @@
 
 ---
 
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://www.geniehack.com" target="_blank">
+    <img src="https://img.shields.io/badge/GenieHack-AI%20Web%20Solutions-14b8a6?style=for-the-badge" />
+  </a>
+  <a href="https://www.shahinafridi.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Case%20Studies%20%26%20Blogs-8b5cf6?style=for-the-badge" />
+  </a>
+</p>
+
+<!-- Optional: Replace placeholders with your real repo links -->
+<p align="center">
+  <a href="https://github.com/shahinafridi012" target="_blank">
+    <img src="https://img.shields.io/badge/More%20Projects-GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shahinafridi012&theme=darkhub&margin-w=12&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shahinafridi012&theme=darkhub&no-frame=true&margin-w=12" />
 </p>
 
 ---
@@ -99,13 +133,29 @@
 
 ---
 
-## ⚡ Fun Fact
+## 🐍 Contribution Snake (Modern)
 
-> I enjoy experimenting with cutting-edge technologies —  
-> **currently focused on AI-powered web experiences 🤖**
+> ⚠️ This needs GitHub Action setup once (I’ll tell you below).
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shahinafridi012/shahinafridi012/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🤝 Let’s Work Together
+
+If you need help with:
+- Next.js / React web apps
+- Backend APIs & integrations
+- SaaS dashboards
+- AI features inside websites/apps
+
+📩 Email me: **shahinafridi012@gmail.com**  
+🔗 LinkedIn: https://www.linkedin.com/in/shahinafridi-pro/
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=14b8a6&height=110&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=14b8a6&height=120&section=footer" />
 </p>
