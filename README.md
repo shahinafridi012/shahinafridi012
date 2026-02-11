@@ -1,6 +1,6 @@
 <!-- ================= HERO ================= -->
 <h1 align="center">
-  Hi 👋, I'm <span style="color:#14b8a6;">Shahin</span>
+  Hi👋, I'm <span style="color:#14b8a6;">Shahin</span>
 </h1>
 
 <p align="center">
