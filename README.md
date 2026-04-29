@@ -36,7 +36,7 @@ I’m a **Full-Stack Web Developer** based in **Bangladesh**, focused on buildin
 - ⚙️ Strong with clean architecture, performance & UI polish  
 - 🤖 Currently exploring AI features that improve real user experience  
 
-🌐 **Portfolio:** https://www.shahinafridi.com  
+🌐 **Portfolio:** https://photo-both-pi.vercel.app/upload-photos
 ✍️ **Articles:** https://www.shahinafridi.com  
 📧 **Email:** shahinafridi012@gmail.com  
 
