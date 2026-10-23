@@ -1,7 +1,9 @@
 
 <!-- ================= HERO ================= -->
 
-<h1 align="center">Hi 👋, I'm Shahin</h1>
+<h1 align="center">
+  Hi 👋, I'm <span style="color:#14b8a6;">Shahin</span>
+</h1>
 
 <h3 align="center">
   Software Engineer | Full-Stack Developer
@@ -9,9 +11,15 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&size=21&pause=1000&color=14B8A6&center=true&vCenter=true&width=750&lines=Software+Engineer+%7C+Full-Stack+Developer;Next.js+%7C+React+%7C+Node.js+%7C+TypeScript;Building+Scalable+Web+Applications;SaaS+Platforms+%7C+APIs+%7C+Automation;From+System+Design+to+Production"
+    src="https://readme-typing-svg.demolab.com?font=Inter&size=21&pause=1000&color=14B8A6&center=true&vCenter=true&width=750&lines=Software+Engineer+%7C+Full-Stack+Developer;Next.js+%7C+React+%7C+Node.js+%7C+TypeScript;Engineering+Scalable+Web+Applications;SaaS+%7C+APIs+%7C+Cloud+%7C+Automation;From+Idea+to+Production"
     alt="Typing SVG"
   />
+</p>
+
+<p align="center">
+  <a href="https://www.geniehack.com">
+    <img src="https://img.shields.io/badge/Building-Real%20World%20Software-14b8a6?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
@@ -19,7 +27,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software-Engineer-14b8a6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-22c55e?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Freelance-Available-f59e0b?style=for-the-badge" />
 </p>
@@ -28,24 +35,26 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineer and Full-Stack Developer** focused on building scalable, reliable, and production-ready web applications.
+I'm a **Software Engineer & Full-Stack Developer** specializing in building modern, scalable, and production-ready web applications.
 
-I work across the complete software development lifecycle — from planning system architecture and designing user interfaces to building backend services, managing databases, and deploying applications.
+My work spans the complete development lifecycle — from frontend engineering and backend architecture to database management, API integrations, optimization, and deployment.
 
-My experience includes developing business websites, SaaS platforms, booking systems, admin dashboards, REST APIs, and automation workflows.
+I've worked on real-world projects across industries including **Real Estate, Transportation, Healthcare, E-commerce, and SaaS**.
 
-- 💻 Building full-stack applications with modern technologies
-- ⚙️ Designing backend architecture and RESTful APIs
-- 🗄️ Working with databases, authentication and access control
-- 🚀 Deploying and maintaining production applications
-- 📈 Improving performance, SEO and user experience
-- 🤖 Exploring AI integration and workflow automation
+- 💻 Building full-stack web applications
+- ⚙️ Developing secure and scalable REST APIs
+- 🏗️ Designing maintainable application architecture
+- 🗄️ Working with databases and backend systems
+- 🚀 Deploying and optimizing production websites
+- 🔐 Implementing authentication and access control
+- 🤖 Exploring AI integration and business automation
+- 🎯 Focused on clean code and practical solutions
 
-**My focus:** Building software that solves real business problems.
+**What I enjoy most:** Turning complex business requirements into reliable, usable software.
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
 ### Languages
 
@@ -53,143 +62,214 @@ My experience includes developing business websites, SaaS platforms, booking sys
   <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,html,css" />
 </p>
 
-### Frontend Development
+### Frontend Engineering
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,vue,angular,tailwind,bootstrap" />
 </p>
 
-### Backend Development
+### Backend Engineering
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,appwrite" />
 </p>
 
 ### Databases & Caching
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" />
 </p>
 
-### DevOps & Tools
+### DevOps & Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vercel,nginx,linux,git,github,postman,vscode,aws" />
+  <img src="https://skillicons.dev/icons?i=aws,vercel,nginx,linux,git,github,postman,vscode" />
 </p>
 
-### Engineering & Architecture
+### Engineering Skills
 
-- RESTful API Design
-- Authentication & Role-Based Access Control
-- Database Design & Integration
-- Client-Server Architecture
+- REST API Development
+- Full-Stack Application Architecture
+- Authentication & Authorization
+- Role-Based Access Control
+- Database Design
 - Third-Party API Integration
-- Payment & Booking Workflows
+- Cloud & VPS Deployment
+- Server Management
 - Performance Optimization
-- Deployment & Server Management
+- SEO & Technical Optimization
+- Responsive Web Development
 - Automation & Webhooks
-- Responsive UI Development
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Featured Projects
 
-Here are some of the projects I've worked on, ranging from production business applications to SaaS platforms.
+A selection of real-world websites and applications I've contributed to.
 
 ### 🚘 AK LIMO GTA INC
 
-**Luxury Transportation & Online Booking Platform**
+**Luxury Transportation & Booking Platform**
 
-A production web application for a luxury transportation business operating in Canada and the USA.
+A production transportation platform serving customers across Canada and the USA.
 
-**Engineering Highlights:**
-- Full-stack booking platform
-- Dynamic fleet pricing and fare calculation
-- Online reservations and booking management
-- Admin and partner management dashboards
-- Role-based authentication and authorization
-- Automated notifications and email workflows
-- RESTful backend and database integration
-- Production deployment and website optimization
+**Key Features & Engineering Work:**
 
-**Tech:** Next.js, React, TypeScript, Node.js, Express, MongoDB, Vercel, Nginx
+- Full-stack web application
+- Online booking and reservation management
+- Dynamic vehicle pricing calculations
+- Admin and customer dashboards
+- Partner management functionality
+- Secure authentication and authorization
+- Automated email notifications
+- Fleet and service management
+- Backend REST APIs
+- Production server and deployment setup
 
-🌐 **Website:** https://theaklimo.com
+**Technologies:**
+Next.js, React, TypeScript, Node.js, Express, MongoDB, Nginx, Vercel
+
+🌐 **Live Website:** https://theaklimo.com
 
 ---
 
-### 🏡 AskLocal
+### 🏡 AskLocal Ecosystem
 
-**Real Estate SaaS & Transaction Workflow Platform**
+**Real Estate SaaS, Business Platforms & Professional Portals**
 
-A real estate technology platform focused on helping teams manage transactions, workflows and collaboration.
+A collection of connected real estate technology products focused on simplifying workflows and improving collaboration between agents, brokerages, mortgage professionals and clients.
 
 **Engineering Areas:**
+
+- Full-stack web development
 - SaaS application architecture
-- Internal user registration and authentication
-- Role-based access management
-- Secure invitation and onboarding flows
-- Transaction workflow development
-- Third-party service integration
-- Backend APIs and database architecture
+- Internal user and partner portals
+- Authentication and access management
+- Professional onboarding workflows
+- Dashboard development
+- Business workflow automation
+- API and database integrations
+- Production application optimization
 
-**Tech:** Next.js, Node.js, Express, MongoDB, REST APIs
+**Websites & Platforms:**
 
-**Status:** Under Development
+| Project | Website |
+|---------|---------|
+| AskLocal | [asklocal.com](https://asklocal.com) |
+| AskLocal AI | [asklocal.ai](https://asklocal.ai) |
+| AskLocal Brokers | [asklocalbrokers.com](https://www.asklocalbrokers.com) |
+| AskLocal Pros | [asklocalpros.ai](https://www.asklocalpros.ai) |
+
+**Technologies:**
+Next.js, React, TypeScript, Node.js, Express, MongoDB, REST APIs
+
+---
+
+### 🏥 Infinity Wellness Chiropractic
+
+**Healthcare Business Website**
+
+A modern website for a chiropractic and wellness clinic based in the United States.
+
+**Website Features:**
+
+- Responsive business website
+- Healthcare service presentation
+- Appointment booking interface
+- Contact and patient information
+- Mobile-friendly user experience
+- Modern frontend presentation
+
+🌐 **Live Website:**
+https://www.infinitywellnesschiro.com/
+
+---
+
+### 🛍️ VER-SO
+
+**Contemporary Fashion & E-commerce**
+
+A fashion-focused online shopping platform with a modern and responsive storefront.
+
+**Website Features:**
+
+- E-commerce storefront
+- Product and collection pages
+- Product browsing experience
+- Responsive layouts
+- Modern shopping interface
+
+🌐 **Live Website:** https://ver-so.com
 
 ---
 
 ### 🤖 GenieHack
 
-**AI & Web Technology Solutions**
+**Web Engineering & Digital Solutions**
 
-A technology-focused project centered around modern web development, intelligent digital solutions and software innovation.
+Technology-focused web development and digital solutions.
+
+Areas of focus include:
+
+- Custom web applications
+- Business platforms
+- Frontend and backend engineering
+- API integrations
+- Software automation
+- AI-powered web solutions
 
 🌐 **Website:** https://www.geniehack.com
 
 ---
 
-### 📸 Photo Booth
+## 💼 Additional Client Work
 
-**Photo Upload Web Application**
+Beyond the featured projects, I've contributed to other client websites, business applications, and custom development projects.
 
-A web-based photo upload experience with an interactive interface.
+My work includes:
 
-🌐 **Project:** https://photo-both-pi.vercel.app/upload-photos
+- Business and corporate websites
+- Custom full-stack applications
+- Admin and customer dashboards
+- API development and integrations
+- Website modernization
+- Authentication and account management
+- Server configuration and deployment
+- Performance and SEO improvements
+
+Some projects are private, while others have been delivered directly to clients.
+
+**My approach:** Build reliable software, keep the architecture maintainable, and deliver solutions that support real business needs.
 
 ---
 
-### 🔒 Additional Client Projects
+## ⚡ What I Do
 
-I've also worked on other business websites, frontend interfaces, backend systems and custom web applications.
+| Specialization | Focus |
+|----------------|-------|
+| Software Engineering | Application architecture & development |
+| Full-Stack Development | Frontend and backend systems |
+| SaaS Platforms | Multi-user applications and dashboards |
+| Backend Engineering | REST APIs and integrations |
+| Database Systems | Data modeling and optimization |
+| Cloud Deployment | VPS, Nginx, PM2 and Vercel |
+| Business Automation | Workflows, webhooks and integrations |
+| Performance | Speed, SEO and user experience |
 
-Some projects and repositories are private due to client requirements.
+---
+
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <a href="https://github.com/shahinafridi012">
-    <img src="https://img.shields.io/badge/Explore_My_GitHub-Repositories-14b8a6?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=shahinafridi012&theme=darkhub&no-frame=true&margin-w=12"
+    alt="GitHub Achievements"
+  />
 </p>
 
 ---
 
-## ⚡ What I Build
-
-| Area | Expertise |
-|------|-----------|
-| Full-Stack Engineering | End-to-end web applications |
-| Frontend | Next.js, React, TypeScript |
-| Backend | Node.js, Express, REST APIs |
-| Database | MongoDB, PostgreSQL, Redis |
-| SaaS | Dashboards, accounts and workflows |
-| Authentication | JWT, RBAC and authorization |
-| Automation | APIs, webhooks and notifications |
-| Deployment | Vercel, VPS, Nginx, PM2 |
-| Optimization | Performance, SEO, responsiveness |
-
----
-
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
   <img
@@ -246,18 +326,18 @@ Some projects and repositories are private due to client requirements.
 
 ---
 
-## 🤝 Let's Build Something Great
+## 🤝 Let's Work Together
 
-I'm interested in working on challenging software engineering projects, scalable web applications, SaaS products and real-world business solutions.
+I'm open to software engineering opportunities, technical collaborations, and freelance development projects.
 
-Whether it's developing a product from scratch, improving an existing system or building a custom business platform, I enjoy solving technical problems and delivering reliable software.
+Whether it's building a new SaaS product, developing custom backend systems, or improving an existing application, I enjoy creating software that is efficient, scalable, and built for real-world use.
 
-**Open to software engineering opportunities, collaboration and freelance projects.**
+**Let's turn ideas into working software.**
 
 ---
 
 <p align="center">
-  <b>Engineering ideas into production-ready software.</b>
+  <b>Software Engineering • Full-Stack Development • Real-World Solutions</b>
 </p>
 
 <p align="center">
